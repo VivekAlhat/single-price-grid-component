@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+}
+
+.container {
+  width: 50%;
+  margin-top: 80px;
+  border: 1px solid transparent;
+  box-shadow: 0 0 5px rgba(107, 106, 106, 0.7);
+}
+
+.main {
+  background-color: #ffffff;
+  padding: 30px;
+  line-height: 2;
+  padding-right: 70px;
+}
+
+.subscription {
+  background-color: #4ab3b1;
+  padding: 30px;
+  color: #ffffff;
+}
+
+.about {
+  background-color: #4fbebd;
+  padding: 30px;
+  color: #ffffff;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+}
+
+#main-text {
+  color: #47a9a8;
+  font-weight: 700;
+}
+
+#tagline {
+  color: #c1d855;
+  margin-top: 25px;
+  font-weight: 700;
+}
+
+#main-other {
+  color: #98999c;
+}
+
+#head-text {
+  font-weight: 700;
+}
+
+.amt {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+#amt-text {
+  padding-left: 10px;
+  color: #dcdce2;
+  vertical-align: super;
+  font-size: 15px;
+}
+
+#signup {
+  margin: 20px 0;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: 700;
+  background-color: hsl(71, 73%, 54%);
+}
+
+.payment {
+  margin-top: 20px;
+}
